@@ -1,5 +1,5 @@
 # UdonSharp_EditorButton
-UUdonSharpのボタンクリックイベントをUnityEditor拡張で登録する
+UdonSharpのボタンクリックイベントをUnityEditor拡張で登録する
 
 手順
 
